@@ -24,3 +24,7 @@ hs_err_pid*
 
 # vim
 *~
+*.swp
+
+# vscode
+.vscode
